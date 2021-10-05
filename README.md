@@ -5,7 +5,7 @@ This repo has the data and recourses about all work shops i made in this boot ca
 - day one was an introduction to data science 
 - day two was a work shop about data analysis with two project 
 - day three will be about machine learning
-- day four witll be about Deep learning 
+- day four will be about Deep learning 
 
 ## **▶Personal Contact**
 # <a href="https://www.facebook.com/saifaleslam1219/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
