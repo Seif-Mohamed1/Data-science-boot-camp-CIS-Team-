@@ -3,7 +3,7 @@
 
 This repo has the data and recourses about all work shops i made in this boot camp 
 - day one was an introduction to data science 
-- day two was a work shop about data analysis with two project 
+- day two was a workshop about data analysis with two project 
 - day three will be about machine learning
 - day four will be about Deep learning 
 
